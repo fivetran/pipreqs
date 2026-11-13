@@ -2603,5 +2603,5 @@ dev = ["coverage", "flake8", "sphinx", "tox"]
 
 [metadata]
 lock-version = "2.1"
-python-versions = ">=3.9, <3.15"
-content-hash = "c3d447f36a63910a889a1e6c237753d0aa060e1925b2382593c3ec2df7b9772a"
+python-versions = ">=3.9, <3.16"
+content-hash = "b9ab0f1150600864be08d7f17aed52900fdef7bfa3b2adfcaa1c76c54dbdcf04"
